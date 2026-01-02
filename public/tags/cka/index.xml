@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CKA on npcheng的博客</title>
+    <link>https://www.npcheng.com/tags/cka/</link>
+    <description>Recent content in CKA on npcheng的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 08 Nov 2020 20:27:49 +0000</lastBuildDate><atom:link href="https://www.npcheng.com/tags/cka/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>定一个小目标，考一个认证CKA</title>
+      <link>https://www.npcheng.com/post/2020/11/aim-cka-certification/</link>
+      <pubDate>Sun, 08 Nov 2020 20:27:49 +0000</pubDate>
+      
+      <guid>https://www.npcheng.com/post/2020/11/aim-cka-certification/</guid>
+      <description>最近正在系统的学习k8s,学习的方式自然是看k8s的官方文档，在工作之余看文档效率真心不高，陆陆续续看了快两周了，看的越多越是迷惑。 迷惑了就</description>
+    </item>
+    
+  </channel>
+</rss>

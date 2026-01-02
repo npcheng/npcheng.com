@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>算法 on npcheng的博客</title>
+    <link>https://www.npcheng.com/tags/%E7%AE%97%E6%B3%95/</link>
+    <description>Recent content in 算法 on npcheng的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 13 Jan 2018 16:36:44 +0000</lastBuildDate><atom:link href="https://www.npcheng.com/tags/%E7%AE%97%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>二分查找实现</title>
+      <link>https://www.npcheng.com/post/2018/01/binary-search/</link>
+      <pubDate>Sat, 13 Jan 2018 16:36:44 +0000</pubDate>
+      
+      <guid>https://www.npcheng.com/post/2018/01/binary-search/</guid>
+      <description>二分查找应该是一个比较简单的查找方法，但也是最之容易有bug的算法了。好吧，说得新看C语法总得有个交待吧，现在交上一个二分查找算法的实现吧。</description>
+    </item>
+    
+  </channel>
+</rss>

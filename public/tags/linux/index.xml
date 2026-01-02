@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>linux on npcheng的博客</title>
+    <link>https://www.npcheng.com/tags/linux/</link>
+    <description>Recent content in linux on npcheng的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language><atom:link href="https://www.npcheng.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>supervisor默认minfs问题</title>
+      <link>https://www.npcheng.com/post/1/01/supervisor-default-minfs-ulmit-problem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.npcheng.com/post/1/01/supervisor-default-minfs-ulmit-problem/</guid>
+      <description>昨天有爬虫同事说:我的爬虫并发量一大,就报大量的错误lookup live.xxxxxx.com on 10.143.22.118:53: no such host .从现象上看是dns未解析所访问的域名.我们的使用的是阿里云的e</description>
+    </item>
+    
+  </channel>
+</rss>

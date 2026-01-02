@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>kuberntes on npcheng的博客</title>
+    <link>https://www.npcheng.com/tags/kuberntes/</link>
+    <description>Recent content in kuberntes on npcheng的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 31 Mar 2022 11:40:09 +0800</lastBuildDate><atom:link href="https://www.npcheng.com/tags/kuberntes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>哪些公司适合kuberntes</title>
+      <link>https://www.npcheng.com/post/2022/03/which-company-need-k8s/</link>
+      <pubDate>Thu, 31 Mar 2022 11:40:09 +0800</pubDate>
+      
+      <guid>https://www.npcheng.com/post/2022/03/which-company-need-k8s/</guid>
+      <description>kubernetes和docker为代表的容器技术越来越火，打开猎聘等求职网站，招聘devops和运维岗位，技能要求都会写上有kuberne</description>
+    </item>
+    
+  </channel>
+</rss>

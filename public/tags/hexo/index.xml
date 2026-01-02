@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>hexo on npcheng的博客</title>
+    <link>https://www.npcheng.com/tags/hexo/</link>
+    <description>Recent content in hexo on npcheng的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 28 Aug 2018 21:12:18 +0000</lastBuildDate><atom:link href="https://www.npcheng.com/tags/hexo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>用hexo_gitlab写博客</title>
+      <link>https://www.npcheng.com/post/2018/08/%E7%94%A8hexo-gitlab%E5%86%99%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Tue, 28 Aug 2018 21:12:18 +0000</pubDate>
+      
+      <guid>https://www.npcheng.com/post/2018/08/%E7%94%A8hexo-gitlab%E5%86%99%E5%8D%9A%E5%AE%A2/</guid>
+      <description>用wordpress写blog好久了，越来越觉得wordpress太重了。而且不太喜欢wordpress自带的编辑器。 最近一直在看gitla</description>
+    </item>
+    
+  </channel>
+</rss>

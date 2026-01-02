@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>python on npcheng的博客</title>
+    <link>https://www.npcheng.com/tags/python/</link>
+    <description>Recent content in python on npcheng的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 19 Dec 2018 09:35:13 +0000</lastBuildDate><atom:link href="https://www.npcheng.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>python中super的用法</title>
+      <link>https://www.npcheng.com/post/2018/12/python-what-is-super/</link>
+      <pubDate>Wed, 19 Dec 2018 09:35:13 +0000</pubDate>
+      
+      <guid>https://www.npcheng.com/post/2018/12/python-what-is-super/</guid>
+      <description>写python时经常会用到 super ，在 django 的 cbv 模式中使用的比较频繁，有时候会有点懵，这里为啥要用super啊。 为了解决这个问题所以在网上收集了一些资</description>
+    </item>
+    
+  </channel>
+</rss>

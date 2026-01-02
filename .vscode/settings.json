@@ -1,0 +1,8 @@
+{
+	"picgo.picBed.current": "qiniu",
+	"picgo.picBed.qiniu.accessKey": "qPTav4lwle60hybOJK56dE3oFt3x27R85tr6pSPc",
+	"picgo.picBed.qiniu.secretKey": "AdfikgUJcwprxdQxly8jncIXq65JUBopVf-E_O3c",
+	"picgo.picBed.qiniu.url": "https://img.npcheng.com",
+	"picgo.picBed.qiniu.bucket": "image-npcheng",
+	"picgo.picBed.qiniu.path": "blog/"
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ENTRYPOINT on npcheng的博客</title>
+    <link>https://www.npcheng.com/tags/entrypoint/</link>
+    <description>Recent content in ENTRYPOINT on npcheng的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 13 Nov 2016 15:50:41 +0000</lastBuildDate><atom:link href="https://www.npcheng.com/tags/entrypoint/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>docker中CMD和ENTRYPOINT区别</title>
+      <link>https://www.npcheng.com/post/2016/11/diffent-of-docker-cmd-entrypoint/</link>
+      <pubDate>Sun, 13 Nov 2016 15:50:41 +0000</pubDate>
+      
+      <guid>https://www.npcheng.com/post/2016/11/diffent-of-docker-cmd-entrypoint/</guid>
+      <description>在编写Dockerfile时，一定会被CMD指令和ENTRYPOINT搞迷惑。CMD指令不就是docker容器执行的命令么，这不和ENTRY</description>
+    </item>
+    
+  </channel>
+</rss>

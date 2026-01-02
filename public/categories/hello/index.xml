@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>hello on npcheng的博客</title>
+    <link>https://www.npcheng.com/categories/hello/</link>
+    <description>Recent content in hello on npcheng的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 06 Jan 2022 21:45:23 +0000</lastBuildDate><atom:link href="https://www.npcheng.com/categories/hello/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的2021年</title>
+      <link>https://www.npcheng.com/post/2022/01/sth-about-2021/</link>
+      <pubDate>Thu, 06 Jan 2022 21:45:23 +0000</pubDate>
+      
+      <guid>https://www.npcheng.com/post/2022/01/sth-about-2021/</guid>
+      <description>本想着在元旦期间复盘我的2021年， 由于父亲生病入院整个假期都在医院度过， 而假期结束之后，父亲还得接受手术， 受疫情影响， 进住院部之后，想离开</description>
+    </item>
+    
+  </channel>
+</rss>

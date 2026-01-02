@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>kubernetes on npcheng的博客</title>
+    <link>https://www.npcheng.com/tags/kubernetes/</link>
+    <description>Recent content in kubernetes on npcheng的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 23 Mar 2022 11:20:40 +0800</lastBuildDate><atom:link href="https://www.npcheng.com/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>helm3快速入门</title>
+      <link>https://www.npcheng.com/post/2022/03/study-helm-begining/</link>
+      <pubDate>Wed, 23 Mar 2022 11:20:40 +0800</pubDate>
+      
+      <guid>https://www.npcheng.com/post/2022/03/study-helm-begining/</guid>
+      <description>kubernets 在希腊语指的是舵手，这个在容器世界里头很形象， kubernetes 调度着各种资源。 而helm 又是什么呢？helm英文值得是舵， 哈哈，正所谓秤不离砣， 砣不离秤</description>
+    </item>
+    
+    <item>
+      <title>kubernetes 体系架构概览</title>
+      <link>https://www.npcheng.com/post/2022/02/k8s-architecturet-123/</link>
+      <pubDate>Wed, 23 Feb 2022 15:47:02 +0800</pubDate>
+      
+      <guid>https://www.npcheng.com/post/2022/02/k8s-architecturet-123/</guid>
+      <description>最近又迫切的想进一步了解kubernetes，现在粗略的看了一下kubernetes。 现在对kubernetes 有了一个相对全面的了解，基本</description>
+    </item>
+    
+  </channel>
+</rss>

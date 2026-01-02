@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>beancount on npcheng的博客</title>
+    <link>https://www.npcheng.com/tags/beancount/</link>
+    <description>Recent content in beancount on npcheng的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 22 Oct 2024 10:36:16 +0800</lastBuildDate><atom:link href="https://www.npcheng.com/tags/beancount/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>历时七天,开心的开始beancount 之旅</title>
+      <link>https://www.npcheng.com/post/2024/10/start_experiencing_beancount/</link>
+      <pubDate>Tue, 22 Oct 2024 10:36:16 +0800</pubDate>
+      
+      <guid>https://www.npcheng.com/post/2024/10/start_experiencing_beancount/</guid>
+      <description>beancount 这款记账软件早有耳闻，不过仅仅只是知道它是一款可以使用文本编辑的复试记账软件，一方面我这点钱也没有必要记账。另一方面APP 记账这么方便完全</description>
+    </item>
+    
+  </channel>
+</rss>

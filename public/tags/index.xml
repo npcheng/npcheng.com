@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on npcheng的博客</title>
+    <link>https://www.npcheng.com/tags/</link>
+    <description>Recent content in Tags on npcheng的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 22 Oct 2024 10:36:16 +0800</lastBuildDate><atom:link href="https://www.npcheng.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>beancount</title>
+      <link>https://www.npcheng.com/tags/beancount/</link>
+      <pubDate>Tue, 22 Oct 2024 10:36:16 +0800</pubDate>
+      
+      <guid>https://www.npcheng.com/tags/beancount/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kuberntes</title>
+      <link>https://www.npcheng.com/tags/kuberntes/</link>
+      <pubDate>Thu, 31 Mar 2022 11:40:09 +0800</pubDate>
+      
+      <guid>https://www.npcheng.com/tags/kuberntes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kubernetes</title>
+      <link>https://www.npcheng.com/tags/kubernetes/</link>
+      <pubDate>Wed, 23 Mar 2022 11:20:40 +0800</pubDate>
+      
+      <guid>https://www.npcheng.com/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CKA</title>
+      <link>https://www.npcheng.com/tags/cka/</link>
+      <pubDate>Sun, 08 Nov 2020 20:27:49 +0000</pubDate>
+      
+      <guid>https://www.npcheng.com/tags/cka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microk8s</title>
+      <link>https://www.npcheng.com/tags/microk8s/</link>
+      <pubDate>Sun, 02 Aug 2020 20:18:30 +0000</pubDate>
+      
+      <guid>https://www.npcheng.com/tags/microk8s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>头条</title>
+      <link>https://www.npcheng.com/tags/%E5%A4%B4%E6%9D%A1/</link>
+      <pubDate>Mon, 14 Jan 2019 10:39:03 +0000</pubDate>
+      
+      <guid>https://www.npcheng.com/tags/%E5%A4%B4%E6%9D%A1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>微信</title>
+      <link>https://www.npcheng.com/tags/%E5%BE%AE%E4%BF%A1/</link>
+      <pubDate>Mon, 14 Jan 2019 10:39:03 +0000</pubDate>
+      
+      <guid>https://www.npcheng.com/tags/%E5%BE%AE%E4%BF%A1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aliyun</title>
+      <link>https://www.npcheng.com/tags/aliyun/</link>
+      <pubDate>Fri, 21 Dec 2018 11:13:58 +0000</pubDate>
+      
+      <guid>https://www.npcheng.com/tags/aliyun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>阿里云</title>
+      <link>https://www.npcheng.com/tags/%E9%98%BF%E9%87%8C%E4%BA%91/</link>
+      <pubDate>Fri, 21 Dec 2018 11:13:58 +0000</pubDate>
+      
+      <guid>https://www.npcheng.com/tags/%E9%98%BF%E9%87%8C%E4%BA%91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://www.npcheng.com/tags/python/</link>
+      <pubDate>Wed, 19 Dec 2018 09:35:13 +0000</pubDate>
+      
+      <guid>https://www.npcheng.com/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>人人出售</title>
+      <link>https://www.npcheng.com/tags/%E4%BA%BA%E4%BA%BA%E5%87%BA%E5%94%AE/</link>
+      <pubDate>Sun, 18 Nov 2018 11:07:36 +0000</pubDate>
+      
+      <guid>https://www.npcheng.com/tags/%E4%BA%BA%E4%BA%BA%E5%87%BA%E5%94%AE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>django</title>
+      <link>https://www.npcheng.com/tags/django/</link>
+      <pubDate>Wed, 12 Sep 2018 16:48:41 +0000</pubDate>
+      
+      <guid>https://www.npcheng.com/tags/django/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nginx</title>
+      <link>https://www.npcheng.com/tags/nginx/</link>
+      <pubDate>Wed, 12 Sep 2018 16:48:41 +0000</pubDate>
+      
+      <guid>https://www.npcheng.com/tags/nginx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uwsgi</title>
+      <link>https://www.npcheng.com/tags/uwsgi/</link>
+      <pubDate>Wed, 12 Sep 2018 16:48:41 +0000</pubDate>
+      
+      <guid>https://www.npcheng.com/tags/uwsgi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://www.npcheng.com/tags/golang/</link>
+      <pubDate>Mon, 03 Sep 2018 11:30:47 +0000</pubDate>
+      
+      <guid>https://www.npcheng.com/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gitlab</title>
+      <link>https://www.npcheng.com/tags/gitlab/</link>
+      <pubDate>Tue, 28 Aug 2018 21:12:18 +0000</pubDate>
+      
+      <guid>https://www.npcheng.com/tags/gitlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hexo</title>
+      <link>https://www.npcheng.com/tags/hexo/</link>
+      <pubDate>Tue, 28 Aug 2018 21:12:18 +0000</pubDate>
+      
+      <guid>https://www.npcheng.com/tags/hexo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C</title>
+      <link>https://www.npcheng.com/tags/c/</link>
+      <pubDate>Sat, 13 Jan 2018 16:36:44 +0000</pubDate>
+      
+      <guid>https://www.npcheng.com/tags/c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>算法</title>
+      <link>https://www.npcheng.com/tags/%E7%AE%97%E6%B3%95/</link>
+      <pubDate>Sat, 13 Jan 2018 16:36:44 +0000</pubDate>
+      
+      <guid>https://www.npcheng.com/tags/%E7%AE%97%E6%B3%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>https://www.npcheng.com/tags/docker/</link>
+      <pubDate>Sun, 13 Nov 2016 15:50:41 +0000</pubDate>
+      
+      <guid>https://www.npcheng.com/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ENTRYPOINT</title>
+      <link>https://www.npcheng.com/tags/entrypoint/</link>
+      <pubDate>Sun, 13 Nov 2016 15:50:41 +0000</pubDate>
+      
+      <guid>https://www.npcheng.com/tags/entrypoint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://www.npcheng.com/tags/linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.npcheng.com/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ulimit</title>
+      <link>https://www.npcheng.com/tags/ulimit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.npcheng.com/tags/ulimit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

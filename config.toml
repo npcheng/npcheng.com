@@ -1,0 +1,109 @@
+baseURL = "https://www.npcheng.com/"
+languageCode = "zh-cn"
+defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
+# defaultContentLanguageInSubdir = true
+title = "npcheng的博客"
+preserveTaxonomyNames = true
+enableRobotsTXT = true
+enableEmoji = true
+theme = "hugo-PaperMod"
+enableGitInfo = false # use git commit log to generate lastmod record # 可根据 Git 中的提交生成最近更新记录。
+
+# Syntax highlighting by Chroma. NOTE: Don't enable `highlightInClient` and `chroma` at the same time!
+pygmentsOptions = "linenos=table"
+pygmentsCodefences = true
+pygmentsUseClasses = true
+pygmentsCodefencesGuessSyntax = true
+
+hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
+paginate = 10                                              # 首页每页显示的文章数
+#disqusShortname = ""      # disqus_shortname
+#googleAnalytics = ""      # UA-XXXXXXXX-X
+copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
+[permalinks]
+  post = '/post/:year/:month/:filename/'
+
+[author]                  # essential                     # 必需
+  name = "npcheng"
+
+[sitemap]                 # essential                     # 必需
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+
+# [languages]
+#   [languages.zh-cn]
+#     contentDir = 'content/zh-cn'
+#     languageName = "简体中文"
+#     title = 'npcheng的博客'
+#   [languages.de]
+#     contentDir = 'content/de'
+#     disabled = false
+#     languageCode = 'de-DE'
+#     languageDirection = 'ltr'
+#     languageName = 'Deutsch'
+#     title = 'Projekt Dokumentation'
+#     weight = 1
+#     [languages.de.params]
+#       subtitle = 'Referenz, Tutorials und Erklärungen'
+# 
+#   [languages.en]
+#     contentDir = 'content/en'
+#     disabled = false
+#     languageCode = 'en-US'
+#     languageDirection = 'ltr'
+#     languageName = 'English'
+#     title = "npcheng's blog"
+#     weight = 2
+#     [languages.en.params]
+#       subtitle = 'Reference, Tutorials, and Explanations'
+
+
+
+[[menu.main]]             # config your menu              # 配置目录
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  url = "/"
+[[menu.main]]
+  name = "Archives"
+  weight = 20
+  identifier = "archives"
+  url = "/post/"
+[[menu.main]]
+  name = "Tags"
+  weight = 30
+  identifier = "tags"
+  url = "/tags/"
+[[menu.main]]
+  name = "About"
+  weight = 40
+  identifier = "About"
+  url = "/aboutme/"
+
+[params]
+  version = "4.x"           # Used to give a friendly message when you have an incompatible update
+  debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
+  env = "production"
+  bd_tj_id = "171d44bfe911e363b2e4a39d8e1aa01b"
+
+  since = "2017"            # Site creation time          # 站点建立时间
+  # use public git repo url to link lastmod git commit, enableGitInfo should be true.
+  # 指定 git 仓库地址，可以生成指向最近更新的 git commit 的链接，需要将 enableGitInfo 设置成 true.
+  gitRepo = ""
+
+  # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
+  logoTitle = "npcheng的博客"        # default: the title value    # 默认值: 上面设置的title值
+  keywords = ["python", "linux","devops"]
+  subtitle= "热爱着，奔跑着"
+  description= "npcheng中年老男人一枚，已过不惑，依然热爱生活，热爱python、linux、deveop相关技术"
+  beian="鄂ICP备14009420号-6"
+  beian_site="https://beian.miit.gov.cn/"
+  toc = true                                                                            # 是否开启目录
+  author = "npcheng"
+  displayFullLangName= true
+
+[params.analytics]
+  GoogleAnalytics = 'G-RCGP948NC9'
+

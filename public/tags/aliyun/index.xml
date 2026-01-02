@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>aliyun on npcheng的博客</title>
+    <link>https://www.npcheng.com/tags/aliyun/</link>
+    <description>Recent content in aliyun on npcheng的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 21 Dec 2018 11:13:58 +0000</lastBuildDate><atom:link href="https://www.npcheng.com/tags/aliyun/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>聊聊阿里云的云盘收费策略</title>
+      <link>https://www.npcheng.com/post/2018/12/about-aliyun-cloud-disk-strategy/</link>
+      <pubDate>Fri, 21 Dec 2018 11:13:58 +0000</pubDate>
+      
+      <guid>https://www.npcheng.com/post/2018/12/about-aliyun-cloud-disk-strategy/</guid>
+      <description>我们一直使用阿里云的ecs,它比较稳定，是值得信赖的云平台，不过最近有件小事让人不太舒服 我们在ecs上搭建了数据库，每日数据差不多30G, 对</description>
+    </item>
+    
+  </channel>
+</rss>
